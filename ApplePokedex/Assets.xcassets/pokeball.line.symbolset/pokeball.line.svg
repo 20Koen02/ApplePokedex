@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="3300px" height="2200px" viewBox="0 0 3300 2200" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>pokeball.line</title>
+    <g id="Line" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="pokeball.line">
+            <g id="Notes">
+                <rect id="artboard" fill="#FFFFFF" fill-rule="nonzero" x="0" y="0" width="3300" height="2200"></rect>
+                <line x1="263" y1="292" x2="3036" y2="292" id="Path" stroke="#000000" stroke-width="0.5"></line>
+                <text id="Weight/Scale-Variations" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="263" y="322">Weight/Scale Variations</tspan>
+                </text>
+                <text id="Ultralight" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="533.711" y="322">Ultralight</tspan>
+                </text>
+                <text id="Thin" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="843.422" y="322">Thin</tspan>
+                </text>
+                <text id="Light" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="1138.63" y="322">Light</tspan>
+                </text>
+                <text id="Regular" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="1426.84" y="322">Regular</tspan>
+                </text>
+                <text id="Medium" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="1723.06" y="322">Medium</tspan>
+                </text>
+                <text id="Semibold" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="2015.77" y="322">Semibold</tspan>
+                </text>
+                <text id="Bold" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="2326.48" y="322">Bold</tspan>
+                </text>
+                <text id="Heavy" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="2618.19" y="322">Heavy</tspan>
+                </text>
+                <text id="Black" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="2917.4" y="322">Black</tspan>
+                </text>
+                <line x1="263" y1="1903" x2="3036" y2="1903" id="Path" stroke="#000000" stroke-width="0.5"></line>
+                <g id="Group" transform="translate(264.367190, 1918.068400)" fill="#000000" fill-rule="nonzero">
+                    <path d="M7.88086,15.761678 C12.18751,15.761678 15.77151,12.18746 15.77151,7.88082 C15.77151,3.5742 12.17771,0 7.87109,0 C3.57422,0 -8.8817842e-16,3.5742 -8.8817842e-16,7.88082 C-8.8817842e-16,12.18746 3.58398,15.761678 7.88086,15.761678 Z M7.88086,14.277303 C4.33593,14.277303 1.5039,11.43551 1.5039,7.88082 C1.5039,4.3261 4.32617,1.4843 7.87109,1.4843 C11.42581,1.4843 14.27731,4.3261 14.27731,7.88082 C14.27731,11.43551 11.43551,14.277303 7.88086,14.277303 Z M4.28711,7.88082 C4.28711,8.31051 4.58984,8.60348 5.03906,8.60348 L7.13867,8.60348 L7.13867,10.72262 C7.13867,11.16207 7.43164,11.4648 7.86133,11.4648 C8.31054,11.4648 8.60351,11.16207 8.60351,10.72262 L8.60351,8.60348 L10.72261,8.60348 C11.16211,8.60348 11.46481,8.31051 11.46481,7.88082 C11.46481,7.44137 11.16211,7.13863 10.72261,7.13863 L8.60351,7.13863 L8.60351,5.02926 C8.60351,4.58 8.31054,4.2773 7.86133,4.2773 C7.43164,4.2773 7.13867,4.58 7.13867,5.02926 L7.13867,7.13863 L5.03906,7.13863 C4.58984,7.13863 4.28711,7.44137 4.28711,7.88082 Z" id="Shape"></path>
+                </g>
+                <g id="Group" transform="translate(283.615050, 1915.988300)" fill="#000000" fill-rule="nonzero">
+                    <path d="M9.96095,19.92186 C15.41015,19.92186 19.92185,15.40037 19.92185,9.96092 C19.92185,4.5117 15.40035,0 9.95115,0 C4.51172,0 8.8817842e-16,4.5117 8.8817842e-16,9.96092 C8.8817842e-16,15.40037 4.52148,19.92186 9.96095,19.92186 Z M9.96095,18.2617 C5.35156,18.2617 1.66992,14.57029 1.66992,9.96092 C1.66992,5.3515 5.34179,1.6601 9.95115,1.6601 C14.56055,1.6601 18.26175,5.3515 18.26175,9.96092 C18.26175,14.57029 14.57035,18.2617 9.96095,18.2617 Z M5.42968,9.96092 C5.42968,10.43943 5.76172,10.7617 6.25976,10.7617 L9.13085,10.7617 L9.13085,13.64256 C9.13085,14.13084 9.46285,14.47264 9.94145,14.47264 C10.42965,14.47264 10.77145,14.14061 10.77145,13.64256 L10.77145,10.7617 L13.65235,10.7617 C14.14065,10.7617 14.48245,10.43943 14.48245,9.96092 C14.48245,9.47264 14.14065,9.13084 13.65235,9.13084 L10.77145,9.13084 L10.77145,6.2597 C10.77145,5.7617 10.42965,5.4199 9.94145,5.4199 C9.46285,5.4199 9.13085,5.7617 9.13085,6.2597 L9.13085,9.13084 L6.25976,9.13084 C5.76172,9.13084 5.42968,9.47264 5.42968,9.96092 Z" id="Shape"></path>
+                </g>
+                <g id="Group" transform="translate(307.901860, 1913.224600)" fill="#000000" fill-rule="nonzero">
+                    <path d="M12.71484,25.43946 C19.67774,25.43946 25.43944,19.6777438 25.43944,12.72462 C25.43944,5.7617 19.66794,0 12.70504,0 C5.75195,0 0,5.7617 0,12.72462 C0,19.6777438 5.76172,25.43946 12.71484,25.43946 Z M12.71484,23.62306 C6.67969,23.62306 1.82617,18.75978 1.82617,12.72462 C1.82617,6.6797 6.66992,1.8262 12.70504,1.8262 C18.75004,1.8262 23.61324,6.6797 23.61324,12.72462 C23.61324,18.75978 18.75974,23.62306 12.71484,23.62306 Z M6.94336,12.72462 C6.94336,13.2422 7.31445,13.60352 7.86134,13.60352 L11.80664,13.60352 L11.80664,17.5586 C11.80664,18.09571 12.17774,18.47657 12.69534,18.47657 C13.23244,18.47657 13.60354,18.10548 13.60354,17.5586 L13.60354,13.60352 L17.55864,13.60352 C18.09574,13.60352 18.47654,13.2422 18.47654,12.72462 C18.47654,12.17774 18.10544,11.80665 17.55864,11.80665 L13.60354,11.80665 L13.60354,7.8613 C13.60354,7.3145 13.23244,6.9336 12.69534,6.9336 C12.17774,6.9336 11.80664,7.3145 11.80664,7.8613 L11.80664,11.80665 L7.86134,11.80665 C7.31445,11.80665 6.94336,12.17774 6.94336,12.72462 Z" id="Shape"></path>
+                </g>
+                <text id="Design-Variations" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="263" y="1953">Design Variations</tspan>
+                </text>
+                <text id="Symbols-are-supported-in-up-to-nine-weights-and-three-scales." fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="263" y="1971">Symbols are supported in up to nine weights and three scales.</tspan>
+                </text>
+                <text id="For-optimal-layout-with-text-and-other-symbols,-vertically-align" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="263" y="1989">For optimal layout with text and other symbols, vertically align</tspan>
+                </text>
+                <text id="symbols-with-the-adjacent-text." fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="263" y="2007">symbols with the adjacent text.</tspan>
+                </text>
+                <line x1="776" y1="1919" x2="776" y2="1933" id="Path" stroke="#00AEEF" stroke-width="0.5"></line>
+                <g id="Group" transform="translate(778.490230, 1918.732400)" fill="#000000" fill-rule="nonzero">
+                    <path d="M0.82032,14.42385 C1.33789,14.42385 1.5918,14.2285375 1.77735,13.681662 L3.03711,10.2344 L8.79887,10.2344 L10.05857,13.681662 C10.24417,14.2285375 10.49807,14.42385 11.00587,14.42385 C11.52347,14.42385 11.85547,14.11135 11.85547,13.623069 C11.85547,13.457053 11.82617,13.300803 11.74807,13.09572 L7.16797,0.8985 C6.94336,0.3028 6.54297,0 5.91797,0 C5.3125,0 4.90235,0.293 4.6875,0.8887 L0.10743,13.10549 C0.0293,13.310569 -4.4408921e-16,13.466819 -4.4408921e-16,13.632834 C-4.4408921e-16,14.121116 0.3125,14.42385 0.82032,14.42385 Z M3.51563,8.75002 L5.88868,2.1778 L5.9375,2.1778 L8.31057,8.75002 L3.51563,8.75002 Z" id="Shape"></path>
+                </g>
+                <line x1="793.197" y1="1919" x2="793.197" y2="1933" id="Path" stroke="#00AEEF" stroke-width="0.5"></line>
+                <text id="Margins" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="776" y="1953">Margins</tspan>
+                </text>
+                <text id="Leading-and-trailing-margins-on-the-left-and-right-side-of-each-symbol" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="776" y="1971">Leading and trailing margins on the left and right side of each symbol</tspan>
+                </text>
+                <text id="can-be-adjusted-by-modifying-the-x-location-of-the-margin-guidelines." fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="776" y="1989">can be adjusted by modifying the x-location of the margin guidelines.</tspan>
+                </text>
+                <text id="Modifications-are-automatically-applied-proportionally-to-all" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="776" y="2007">Modifications are automatically applied proportionally to all</tspan>
+                </text>
+                <text id="scales-and-weights." fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="776" y="2025">scales and weights.</tspan>
+                </text>
+                <g id="Group" transform="translate(1291.248126, 1914.517396)" fill="#000000" fill-rule="nonzero">
+                    <path d="M0.593673634,20.347834 L2.29289363,22.056824 C3.15226363,22.925964 4.13859363,22.867374 5.06632363,21.841984 L15.7596736,10.054874 L14.7928736,9.07830404 L4.17765363,20.757994 C3.82609363,21.158384 3.49406363,21.256044 3.02531363,20.787294 L1.85343363,19.625184 C1.38468363,19.166198 1.49210363,18.824401 1.89249363,18.4630728 L13.3670736,7.66230404 L12.3905736,6.69550404 L0.798753634,17.584166 C-0.187576366,18.5021352 -0.265706366,19.478698 0.593673634,20.347834 Z M7.00968363,2.15450404 C6.58976363,2.56460404 6.56046363,3.14080404 6.79484363,3.53140404 C7.02921363,3.89280404 7.48820363,4.12710404 8.13277363,3.96110404 C9.59757363,3.61930404 11.1209736,3.56070404 12.5467736,4.49820404 L11.9608736,5.95330404 C11.6190736,6.78340404 11.7948736,7.36930404 12.3319736,7.91620404 L14.6268736,10.230654 C15.1151736,10.718934 15.5252736,10.738464 16.0916736,10.640804 L17.1561736,10.445494 L17.8202736,11.119324 L17.7811736,11.675964 C17.7420736,12.174014 17.8690736,12.554874 18.3573736,13.033384 L19.1190736,13.775574 C19.5975736,14.254084 20.2127736,14.283384 20.6815736,13.814634 L23.5916736,10.894714 C24.0604736,10.425964 24.0409736,9.83026404 23.5623736,9.35174404 L22.7909736,8.59002404 C22.3123736,8.11150404 21.9413736,7.95530404 21.4627736,7.99430404 L20.8866736,8.04310404 L20.2420736,7.40840404 L20.4862736,6.28530404 C20.6131736,5.71890404 20.4569736,5.27950404 19.8709736,4.69350404 L17.6737736,2.50600404 C14.3338736,-0.814295964 9.90027363,-0.736195964 7.00968363,2.15450404 Z M8.50387363,2.52560404 C10.9354736,0.748204036 14.2264736,1.05100404 16.4530736,3.27750404 L18.8846736,5.68960404 C19.1190736,5.92400404 19.1580736,6.10960404 19.0897736,6.45140404 L18.7674736,7.93570404 L20.2713736,9.42010404 L21.2577736,9.36151404 C21.5116736,9.35174404 21.5897736,9.37127404 21.7850736,9.56658404 L22.3612736,10.142764 L19.9198736,12.584164 L19.3436736,12.007994 C19.1483736,11.812684 19.1190736,11.734554 19.1288736,11.470884 L19.1971736,10.494324 L17.7030736,9.00994404 L16.1795736,9.26385404 C15.8573736,9.33221404 15.7108736,9.30291404 15.4666736,9.06854404 L13.4647736,7.06660404 C13.2108736,6.83220404 13.1815736,6.66620404 13.3377736,6.29510404 L14.2166736,4.20530404 C12.6541736,2.75020404 10.6229736,2.12520404 8.59167363,2.72090404 C8.43547363,2.75990404 8.37687363,2.63300404 8.50387363,2.52560404 Z" id="Shape"></path>
+                </g>
+                <text id="Exporting" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="1289" y="1953">Exporting</tspan>
+                </text>
+                <text id="Symbols-should-be-outlined-when-exporting-to-ensure-the" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="1289" y="1971">Symbols should be outlined when exporting to ensure the</tspan>
+                </text>
+                <text id="design-is-preserved-when-submitting-to-Xcode." fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="1289" y="1989">design is preserved when submitting to Xcode.</tspan>
+                </text>
+                <text id="template-version" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="2952" y="1933">Template v.4.0</tspan>
+                </text>
+                <text id="Requires-Xcode-14-or-greater" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="2865" y="1951">Requires Xcode 14 or greater</tspan>
+                </text>
+                <text id="descriptive-name" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="2865" y="1969">Generated from custom.circle</tspan>
+                </text>
+                <text id="Typeset-at-100-points" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="2912" y="1987">Typeset at 100 points</tspan>
+                </text>
+                <text id="Small" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="263" y="726">Small</tspan>
+                </text>
+                <text id="Medium" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="263" y="1156">Medium</tspan>
+                </text>
+                <text id="Large" fill="#000000" fill-rule="nonzero" font-family="Helvetica" font-size="13" font-weight="normal">
+                    <tspan x="263" y="1586">Large</tspan>
+                </text>
+            </g>
+            <g id="Guides" transform="translate(263.000000, 600.784000)">
+                <g id="H-reference" transform="translate(76.993654, 24.757000)" fill="#27AAE1" fill-rule="nonzero">
+                    <path d="M0,70.459 L2.644096,70.459 L28.334446,3.3267 L29.036646,3.3267 L29.036646,0 L27.128946,0 L0,70.459 Z M10.694846,45.9791 L45.987846,45.9791 L45.237846,43.7305 L11.444846,43.7305 L10.694846,45.9791 Z M54.125946,70.459 L56.770046,70.459 L29.644546,0 L28.438946,0 L28.438946,3.3267 L54.125946,70.459 Z" id="Shape"></path>
+                </g>
+                <line x1="0" y1="95.216" x2="2773" y2="95.216" id="Baseline-S" stroke="#27AAE1" stroke-width="0.5"></line>
+                <line x1="0" y1="24.757" x2="2773" y2="24.757" id="Capline-S" stroke="#27AAE1" stroke-width="0.5"></line>
+                <g id="H-reference" transform="translate(76.993654, 454.757000)" fill="#27AAE1" fill-rule="nonzero">
+                    <path d="M0,70.459 L2.644096,70.459 L28.334446,3.3267 L29.036646,3.3267 L29.036646,0 L27.128946,0 L0,70.459 Z M10.694846,45.9791 L45.987846,45.9791 L45.237846,43.7305 L11.444846,43.7305 L10.694846,45.9791 Z M54.125946,70.459 L56.770046,70.459 L29.644546,0 L28.438946,0 L28.438946,3.3267 L54.125946,70.459 Z" id="Shape"></path>
+                </g>
+                <line x1="0" y1="525.216" x2="2773" y2="525.216" id="Baseline-M" stroke="#27AAE1" stroke-width="0.5"></line>
+                <line x1="0" y1="454.756" x2="2773" y2="454.756" id="Capline-M" stroke="#27AAE1" stroke-width="0.5"></line>
+                <g id="H-reference" transform="translate(76.993654, 884.757000)" fill="#27AAE1" fill-rule="nonzero">
+                    <path d="M0,70.459 L2.644096,70.459 L28.334446,3.3267 L29.036646,3.3267 L29.036646,0 L27.128946,0 L0,70.459 Z M10.694846,45.9791 L45.987846,45.9791 L45.237846,43.7305 L11.444846,43.7305 L10.694846,45.9791 Z M54.125946,70.459 L56.770046,70.459 L29.644546,0 L28.438946,0 L28.438946,3.3267 L54.125946,70.459 Z" id="Shape"></path>
+                </g>
+                <line x1="0" y1="955.216" x2="2773" y2="955.216" id="Baseline-L" stroke="#27AAE1" stroke-width="0.5"></line>
+                <line x1="0" y1="884.756" x2="2773" y2="884.756" id="Capline-L" stroke="#27AAE1" stroke-width="0.5"></line>
+                <line x1="252.649" y1="-1.13686838e-13" x2="252.649" y2="119.337" id="left-margin-Ultralight-S" stroke="#00AEEF" stroke-width="0.5"></line>
+                <line x1="340.773" y1="-1.13686838e-13" x2="340.773" y2="119.337" id="right-margin-Ultralight-S" stroke="#00AEEF" stroke-width="0.5"></line>
+                <line x1="1140.58" y1="-1.13686838e-13" x2="1140.58" y2="119.337" id="left-margin-Regular-S" stroke="#00AEEF" stroke-width="0.5"></line>
+                <line x1="1233.11" y1="-1.13686838e-13" x2="1233.11" y2="119.337" id="right-margin-Regular-S" stroke="#00AEEF" stroke-width="0.5"></line>
+                <line x1="2621.57" y1="-1.13686838e-13" x2="2621.57" y2="119.337" id="left-margin-Black-S" stroke="#00AEEF" stroke-width="0.5"></line>
+                <line x1="2719.23" y1="-1.13686838e-13" x2="2719.23" y2="119.337" id="right-margin-Black-S" stroke="#00AEEF" stroke-width="0.5"></line>
+            </g>
+            <g id="Symbols" transform="translate(522.000000, 621.000000)" fill="#000000">
+                <g id="Black-S" transform="translate(2369.000000, 0.000000)">
+                    <path d="M41.99,0 C65.1802372,0 83.98,18.7995529 83.98,41.99 C83.98,65.1802372 65.1802372,83.98 41.99,83.98 C18.7995529,83.98 0,65.1802372 0,41.99 C0,18.7995529 18.7995529,0 41.99,0 Z M25.723158,46.189 L8.65787611,46.189 C10.724204,62.7595137 24.8596756,75.582 41.99,75.582 C59.1202404,75.582 73.255754,62.7595137 75.3220819,46.189 L58.256926,46.189 C56.3921501,53.4331148 49.8160962,58.786 41.99,58.786 C34.1639038,58.786 27.5876819,53.4331148 25.723158,46.189 Z M41.99,33.592 C37.3517846,33.592 33.592,37.3517846 33.592,41.99 C33.592,46.6282154 37.3517846,50.388 41.99,50.388 C46.6282154,50.388 50.388,46.6282154 50.388,41.99 C50.388,37.3517846 46.6282154,33.592 41.99,33.592 Z M41.99,8.398 C24.8596756,8.398 10.724204,21.2204443 8.65787611,37.791 L8.65787611,37.791 L25.723158,37.791 C27.5876819,30.5467592 34.1639038,25.194 41.99,25.194 C49.8160962,25.194 56.3921501,30.5467592 58.256926,37.791 L58.256926,37.791 L75.3220819,37.791 C73.255754,21.2204443 59.1202404,8.398 41.99,8.398 Z" id="Shape"></path>
+                </g>
+                <g id="Regular-S" transform="translate(888.000000, 0.000000)">
+                    <path d="M39.43,0 C61.2064004,0 78.86,17.6534024 78.86,39.43 C78.86,61.2064004 61.2064004,78.86 39.43,78.86 C17.6534024,78.86 0,61.2064004 0,39.43 C0,17.6534024 17.6534024,0 39.43,0 Z M24.1548969,43.373 L8.13003227,43.373 C10.0703826,58.9332609 23.3440583,70.974 39.43,70.974 C55.5158628,70.974 68.789578,58.9332609 70.7299283,43.373 L54.705182,43.373 C52.9540957,50.1754636 46.7789634,55.202 39.43,55.202 C32.0810366,55.202 25.9057466,50.1754636 24.1548969,43.373 Z M39.43,31.544 C35.0745622,31.544 31.544,35.0745622 31.544,39.43 C31.544,43.7854378 35.0745622,47.316 39.43,47.316 C43.7854378,47.316 47.316,43.7854378 47.316,39.43 C47.316,35.0745622 43.7854378,31.544 39.43,31.544 Z M39.43,7.886 C23.3440583,7.886 10.0703826,19.9266997 8.13003227,35.487 L8.13003227,35.487 L24.1548969,35.487 C25.9057466,28.6844181 32.0810366,23.658 39.43,23.658 C46.7789634,23.658 52.9540957,28.6844181 54.705182,35.487 L54.705182,35.487 L70.7299283,35.487 C68.789578,19.9266997 55.5158628,7.886 39.43,7.886 Z" id="Shape"></path>
+                </g>
+                <g id="Ultralight-S" transform="translate(0.000000, 3.000000)">
+                    <path d="M37.225,0 C57.783623,0 74.45,16.6661909 74.45,37.225 C74.45,57.783623 57.783623,74.45 37.225,74.45 C16.6661909,74.45 0,57.783623 0,37.225 C0,16.6661909 16.6661909,0 37.225,0 Z M22.8041095,40.9475 L7.67538553,40.9475 C9.50722778,55.6376017 22.0386146,67.005 37.225,67.005 C52.411311,67.005 64.942735,55.6376017 66.7745773,40.9475 L51.645965,40.9475 C49.9928028,47.369557 44.1629955,52.115 37.225,52.115 C30.2870045,52.115 24.4570484,47.369557 22.8041095,40.9475 Z M37.225,29.78 C33.1131265,29.78 29.78,33.1131265 29.78,37.225 C29.78,41.3368735 33.1131265,44.67 37.225,44.67 C41.3368735,44.67 44.67,41.3368735 44.67,37.225 C44.67,33.1131265 41.3368735,29.78 37.225,29.78 Z M37.225,7.445 C22.0386146,7.445 9.50722778,18.812361 7.67538553,33.5025 L7.67538553,33.5025 L22.8041095,33.5025 C24.4570484,27.0803313 30.2870045,22.335 37.225,22.335 C44.1629955,22.335 49.9928028,27.0803313 51.645965,33.5025 L51.645965,33.5025 L66.7745773,33.5025 C64.942735,18.812361 52.411311,7.445 37.225,7.445 Z" id="Shape"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
