@@ -11,12 +11,12 @@ Supports all iPhones & iPads on version 15.0 or higher
 ## Screenshots
 Home page - Light | Favorites page - Dark | Context menu - Light
 :---------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/File3.jpg)  | ![](screenshots/File4.jpg) | ![](screenshots/File5.jpg)
+![](screenshots/File3.png)  | ![](screenshots/File4.png) | ![](screenshots/File5.png)
 
 Details stats - Light | iPad Home page - light 
 :---------------------------:|:-------------------------:
-![](screenshots/File7.jpg)  | ![](screenshots/File1.jpg)
+![](screenshots/File7.png)  | ![](screenshots/File1.png)
 
 iPad Details about - Dark | Details about - Dark 
 :---------------------------:|:-------------------------:
-![](screenshots/File2.jpg)  | ![](screenshots/File6.jpg)
+![](screenshots/File2.png)  | ![](screenshots/File6.png)
