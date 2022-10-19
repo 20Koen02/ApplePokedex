@@ -9,7 +9,7 @@ import SwiftUI
 
 struct StatsTab: View {
     let pokemonDetail: PokemonDetail
-    private let stats = ["HP", "Attack", "Degense", "Sp. Atk", "Sp. Def", "Speed"]
+    private let stats = ["HP", "Attack", "Defense", "Sp. Atk", "Sp. Def", "Speed"]
     
     var body: some View {
         ScrollView {
