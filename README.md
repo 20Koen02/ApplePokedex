@@ -1,6 +1,6 @@
 # 🏵 Pokedex - iOS & iPadOS App
 
-<img src="https://github.com/20Koen02/ApplePokedex/blob/master/ApplePokedex/Assets.xcassets/AppIcon.appiconset/128.png" align="right" width="100" height="100" alt="Logo">
+<img src="ApplePokedex/Assets.xcassets/AppIcon.appiconset/128.png" align="right" width="100" height="100" alt="Logo">
 
 iOS & iPadOS Pokedex for Inholland Mobile Development minor  
 Built with SwiftUI  
