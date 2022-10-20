@@ -7,6 +7,7 @@
 
 import SwiftUI
 import Introspect
+import CachedAsyncImage
 
 struct PokemonDetailView: View {
     let pokemon: PokemonListItem
@@ -58,7 +59,7 @@ struct PokemonDetailView: View {
                     Spacer()
                 }
                 
-                AsyncImage(
+                CachedAsyncImage(
                     url: pokemon.imageURL,
                     content: { image in
                         image.interpolation(.none)

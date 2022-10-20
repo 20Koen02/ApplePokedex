@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import CachedAsyncImage
 
 struct PokemonCard: View {
     let pokemon: PokemonListItem
@@ -15,7 +16,7 @@ struct PokemonCard: View {
     var body: some View {
         VStack {
             ZStack {
-                AsyncImage(
+                CachedAsyncImage(
                     url: pokemon.imageURL,
                     content: { image in
                         image.interpolation(.none)

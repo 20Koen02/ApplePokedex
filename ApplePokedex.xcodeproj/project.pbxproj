@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5D07F96829013B2900D8D813 /* CachedAsyncImage in Frameworks */ = {isa = PBXBuildFile; productRef = 5D07F96729013B2900D8D813 /* CachedAsyncImage */; };
 		5D4A3EAF28FED4EE00FEFFBB /* Introspect in Frameworks */ = {isa = PBXBuildFile; productRef = 5D4A3EAE28FED4EE00FEFFBB /* Introspect */; };
 		5D4A3EB428FEE05400FEFFBB /* PokemonDetailViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4A3EB328FEE05400FEFFBB /* PokemonDetailViewModel.swift */; };
 		5D4A3EB628FEE0B800FEFFBB /* PokemonDetailDataService.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5D4A3EB528FEE0B800FEFFBB /* PokemonDetailDataService.swift */; };
@@ -79,6 +80,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5D4A3EAF28FED4EE00FEFFBB /* Introspect in Frameworks */,
+				5D07F96829013B2900D8D813 /* CachedAsyncImage in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -227,6 +229,7 @@
 			name = ApplePokedex;
 			packageProductDependencies = (
 				5D4A3EAE28FED4EE00FEFFBB /* Introspect */,
+				5D07F96729013B2900D8D813 /* CachedAsyncImage */,
 			);
 			productName = ApplePokedex;
 			productReference = 5D79A4E528F6FDC7003EB4B0 /* ApplePokedex.app */;
@@ -302,6 +305,7 @@
 			mainGroup = 5D79A4DC28F6FDC7003EB4B0;
 			packageReferences = (
 				5D4A3EAD28FED4EE00FEFFBB /* XCRemoteSwiftPackageReference "SwiftUI-Introspect" */,
+				5D07F96629013B2900D8D813 /* XCRemoteSwiftPackageReference "swiftui-cached-async-image" */,
 			);
 			productRefGroup = 5D79A4E628F6FDC7003EB4B0 /* Products */;
 			projectDirPath = "";
@@ -724,6 +728,14 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
+		5D07F96629013B2900D8D813 /* XCRemoteSwiftPackageReference "swiftui-cached-async-image" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/lorenzofiamingo/swiftui-cached-async-image";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.0.0;
+			};
+		};
 		5D4A3EAD28FED4EE00FEFFBB /* XCRemoteSwiftPackageReference "SwiftUI-Introspect" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "https://github.com/siteline/SwiftUI-Introspect.git";
@@ -735,6 +747,11 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
+		5D07F96729013B2900D8D813 /* CachedAsyncImage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 5D07F96629013B2900D8D813 /* XCRemoteSwiftPackageReference "swiftui-cached-async-image" */;
+			productName = CachedAsyncImage;
+		};
 		5D4A3EAE28FED4EE00FEFFBB /* Introspect */ = {
 			isa = XCSwiftPackageProductDependency;
 			package = 5D4A3EAD28FED4EE00FEFFBB /* XCRemoteSwiftPackageReference "SwiftUI-Introspect" */;
