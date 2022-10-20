@@ -2,7 +2,7 @@
 
 <img src="ApplePokedex/Assets.xcassets/AppIcon.appiconset/128.png" align="right" width="100" height="100" alt="Logo">
 
-iOS & iPadOS Pokedex for Inholland Mobile Development minor  
+iOS & iPadOS Pokedex    
 Built with SwiftUI  
 Supports all iPhones & iPads on version 15.0 or higher  
 
