@@ -1,6 +1,3 @@
-# Created by https://www.toptal.com/developers/gitignore/api/swift,swiftpm
-# Edit at https://www.toptal.com/developers/gitignore?templates=swift,swiftpm
-
 ### Swift ###
 # Xcode
 #
@@ -84,11 +81,3 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
-
-### SwiftPM ###
-Packages
-xcuserdata
-*.xcodeproj
-
-
-# End of https://www.toptal.com/developers/gitignore/api/swift,swiftpm
